@@ -1,0 +1,3 @@
+ now we want to create new file into new branch :
+ and merge it then pull request:
+ push to central repository,::
